@@ -80,7 +80,7 @@
 
 * python : 
 
-      nVisible = 5, nHidden = 2, nlabels = None, eta = 0.1, decay = 0, nCDsteps = 5, momentum - 0.9, nepochs = 1000
+      nVisible = 5, nHidden = 2, nlabels = None, eta = 0.1, decay = 0, nCDsteps = 5, momentum = 0.9, nepochs = 1000
 
 * tensorflow : 
 
